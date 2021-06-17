@@ -1,0 +1,95 @@
+Python 3 - programação com Django, PyQT5, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos
+
+Pelos números
+Nível de experiência: Todos os níveis
+Alunos: 17406
+idiomas: Português
+Legendas: Sim
+Lições: 296
+Vídeo: 86,5 horas no total
+
+Certificados
+Termine o curso por completo para receber um certificado da Udemy
+
+Descrição
+Este é, sem sombra de dúvidas, o curso de Python 3 mais completo que você vai encontrar na atualidade. São mais de 85 horas de conteúdo, mais de 290 aulas sobre os assuntos relacionados mais variados da linguagem (do básico ao avançado) e inclui uma seção bônus sobre expressões regulares.
+
+-
+
+Curso de Python 3 do Básico Ao Avançado (com projetos reais)
+
+Iniciando em programação e quer aprender Python 3 do básico ao avançado? Este curso é completo e para você!
+Programador experiente em outra linguagem de programação e quer aprender Python 3? Este curso também é completo e pra você!
+
+Mesmo que não tenha trabalhado com programação antes (ou se já é um desenvolvedor experiente), vou te guiar em todos os passos até que comece a criar seus próprios scripts, programas, sites e/ou automatizações em Python (na versão 3).
+
+Vamos iniciar do zero, desde a instalação do Python 3 até as partes bem mais avançadas da linguagem, como módulos de terceiros, bases de dados (MySQL, SQLite, etc...), web scraping, padrões de projeto GoF (Design Patterns), expressões regulares (RegEx) e muito mais. Alguns dos módulos que abordaremos  já são consagrados no mercado, como Django, PyQT5, Selenium e vários outros.
+
+Criaremos projetos reais do zero, como um conversor de vídeos usando Python e ffmpeg, um gerador e validador de CPF (você vai aprender a validar CNPJ também) usando PyQT5, realizar cálculo de redes IPv4, um blog e um e-commerce básicos nos nossos projetos finais usando Django.
+
+Também faremos deploy da nossa aplicação em um servidor com Linux no Google Cloud Platform, ou seja, você vai ter que colocar a mão na massa para subir e configurar um servidor Linux e suas chaves SSH junto comigo (claro que te guiarei em todos os passos).
+
+Este curso está dividido da seguinte maneira:
+
+Para nível iniciante: Lógica de programação (partes básicas de Python 3)
+
+Para nível intermediário: Programação procedural (funções, repetições e partes relacionadas)
+
+Para experientes: Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF
+
+Módulos úteis: inclui aulas de módulos específicos do Python e de terceiros
+
+Bases de dados: inclui aulas relacionadas com bases de dados no Python
+
+Django: Criaremos alguns projetos (sites) utilizando o Django.
+
+Testes no Python (com TDD básico)
+
+Bônus: Expressões Regulares (Regex - re)
+
+Design Patterns (Padrões de projeto - GoF) - Programação Orientada a Objetos Avançada
+
+Também vamos falar sobre interface gráfica com PyQT5 e QT Designer, criação de sites com Django e muito mais.
+
+Ao terminar esse curso, você poderá conseguir sua sonhada vaga no Mercado de trabalho como desenvolvedor ou desenvolvedora, já que todos os nossos projetos são voltados para a prática e não apenas teoria.
+
+Venha aprender a linguagem que mais cresce neste ano agora!
+
+O que você aprenderá
+Python 3 básico (com lógica de programação)
+Python 3 intermediário (com programação procedural e funcional)
+Python 3 avançado (com programação orientada a objetos)
+Módulos do Python, como PyQT5 para GUI, Selenium e muito mais
+Django para criação de sites e APIs
+Bases de dados: SQLite3 e MySQL/MariaDB
+Testes no Python (com TDD básico)
+Bônus: Expressões Regulares
+Padrões de projeto (Design Patterns da GoF)
+Curso com atualizações para 2020
+Há algum requisito ou pré-requisito para o curso?
+Ter um computador com Windows ou Linux (Ubuntu)
+Ter vontade de aprender
+Para quem é este curso:
+Iniciantes (que nunca programaram) que estão dispostos a aprender programação em Python
+Desenvolvedores intermediários que querem aprender Python
+Desenvolvedores avançados que querem aprender Python e módulos úteis do Python
+Desenvolvedores avançados que querem aprender programação orientada a objetos
+Desenvolvedores avançados que querem aprender Django
+Desenvolvedores avançados que querem aprender Design Patterns
+
+Luiz Otávio Miranda
+Desenvolvedor de Software
+
+Trabalha há mais de 12 anos com desenvolvimento de softwares para terceiros usando várias linguagens, libs e frameworks diferentes.
+
+Especializado em desenvolvimento web voltado para e-commerces.
+
+Atua tanto em front-end quanto back-end.
+
+Atuou no setor de provedores de internet, trabalhando com infraestrutura de redes (wireless, fibra óptica, cabeamento, etc...). No mesmo seguimento, também atuou na área de  administração de servidores Linux.
+
+Está em contínuo aprendizado.
+
+Atualmente, mantem softwares próprios criados para terceiros e ensina o que sabe para outros desenvolvedores.
+
+Músico nas horas vagas.
