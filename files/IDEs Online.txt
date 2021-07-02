@@ -1,7 +1,0 @@
-https://codepen.io/
-https://jsfiddle.net/
-https://stackblitz.com/
-https://codenvy.com/
-https://codeanywhere.com/
-https://codesandbox.io/
-https://www.gitpod.io/
