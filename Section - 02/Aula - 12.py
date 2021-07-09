@@ -63,6 +63,7 @@ else:
 
 usuario = input('Username: ')
 senha = input('Password: ')
+print('\n' * 3)
 
 usuario_bd = 'rafaelangelopv'
 senha_bd = '123456'
